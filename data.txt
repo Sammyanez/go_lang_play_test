@@ -1,0 +1,162 @@
+Recap
+
+Round: 1
+
+Character Stats
+Name:Bob
+Race:Human
+Level:12
+Health:64
+Class: Witch
+Stamina:40
+Weapon: Dagger
+
+Character Stats
+Name:Kira
+Race:Elf
+Level:10
+Health:75
+Class: Witch
+Mana:39
+Spells:
+1. Fireball
+2. Waterball
+3. Earthball
+
+Round: 2
+
+Character Stats
+Name:Bob
+Race:Human
+Level:12
+Health:39
+Class: Witch
+Stamina:30
+Weapon: Dagger
+
+Character Stats
+Name:Kira
+Race:Elf
+Level:10
+Health:50
+Class: Witch
+Mana:29
+Spells:
+1. Fireball
+2. Waterball
+3. Earthball
+
+Round: 3
+
+Character Stats
+Name:Bob
+Race:Human
+Level:12
+Health:13
+Class: Witch
+Stamina:20
+Weapon: Dagger
+
+Character Stats
+Name:Kira
+Race:Elf
+Level:10
+Health:25
+Class: Witch
+Mana:18
+Spells:
+1. Fireball
+2. Waterball
+3. Earthball
+
+Round: 4
+
+Character Stats
+Name:Bob
+Race:Human
+Level:12
+Health:-13
+Class: Witch
+Stamina:10
+Weapon: Dagger
+
+Character Stats
+Name:Kira
+Race:Elf
+Level:10
+Health:100
+Class: Witch
+Mana:100
+Spells:
+1. Fireball
+2. Waterball
+3. Earthball
+
+Round: 5
+
+Character Stats
+Name:Bob
+Race:Human
+Level:12
+Health:-13
+Class: Witch
+Stamina:10
+Weapon: Dagger
+
+Character Stats
+Name:Kira
+Race:Elf
+Level:10
+Health:100
+Class: Witch
+Mana:100
+Spells:
+1. Fireball
+2. Waterball
+3. Earthball
+
+Round: 6
+
+Character Stats
+Name:Bob
+Race:Human
+Level:12
+Health:-13
+Class: Witch
+Stamina:10
+Weapon: Dagger
+
+Character Stats
+Name:Kira
+Race:Elf
+Level:10
+Health:100
+Class: Witch
+Mana:100
+Spells:
+1. Fireball
+2. Waterball
+3. Earthball
+
+Round: 7
+
+Character Stats
+Name:Bob
+Race:Human
+Level:12
+Health:-13
+Class: Witch
+Stamina:10
+Weapon: Dagger
+
+Character Stats
+Name:Kira
+Race:Elf
+Level:10
+Health:100
+Class: Witch
+Mana:100
+Spells:
+1. Fireball
+2. Waterball
+3. Earthball
